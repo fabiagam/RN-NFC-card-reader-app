@@ -1,2 +1,2 @@
 # RN-NFC-card-reader-app
-A demo NFC card reader app powered with React Native 
+A demo NFC card reader app written with React Native for iOS and Android 
